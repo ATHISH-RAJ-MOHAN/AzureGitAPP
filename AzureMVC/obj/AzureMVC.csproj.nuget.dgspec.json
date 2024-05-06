@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\WEBAPPLICATIONS(ASP,MVC)\\WebApp1\\AzureMVC\\AzureMVC.csproj": {}
+    "C:\\WEBAPPLICATIONS(ASP,MVC)\\AzureBlankSol\\AzureMVC\\AzureMVC.csproj": {}
   },
   "projects": {
-    "C:\\WEBAPPLICATIONS(ASP,MVC)\\WebApp1\\AzureMVC\\AzureMVC.csproj": {
+    "C:\\WEBAPPLICATIONS(ASP,MVC)\\AzureBlankSol\\AzureMVC\\AzureMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\WEBAPPLICATIONS(ASP,MVC)\\WebApp1\\AzureMVC\\AzureMVC.csproj",
+        "projectUniqueName": "C:\\WEBAPPLICATIONS(ASP,MVC)\\AzureBlankSol\\AzureMVC\\AzureMVC.csproj",
         "projectName": "AzureMVC",
-        "projectPath": "C:\\WEBAPPLICATIONS(ASP,MVC)\\WebApp1\\AzureMVC\\AzureMVC.csproj",
+        "projectPath": "C:\\WEBAPPLICATIONS(ASP,MVC)\\AzureBlankSol\\AzureMVC\\AzureMVC.csproj",
         "packagesPath": "C:\\Users\\ATHISH RAJ MOHAN\\.nuget\\packages\\",
-        "outputPath": "C:\\WEBAPPLICATIONS(ASP,MVC)\\WebApp1\\AzureMVC\\obj\\",
+        "outputPath": "C:\\WEBAPPLICATIONS(ASP,MVC)\\AzureBlankSol\\AzureMVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ATHISH RAJ MOHAN\\AppData\\Roaming\\NuGet\\NuGet.Config",

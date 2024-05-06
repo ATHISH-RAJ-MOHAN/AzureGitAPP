@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cuMh2je7/vaGMOjmWqL6DPxIsZGQwcCdBt7q+JMY2rysbI77hEH6q/Xp+pU5Hj8PkFLYPF5Cgro/Z7sWJwuPiQ==",
+  "dgSpecHash": "nyYoo0VYFIFn8c9dio8wXDW4qhs6IbgIZzSeo8kQPsj/IVPV9N2zbpszMNb3hWaYunwrniyz2D+daxpKdpGkig==",
   "success": true,
-  "projectFilePath": "C:\\WEBAPPLICATIONS(ASP,MVC)\\WebApp1\\AzureMVC\\AzureMVC.csproj",
+  "projectFilePath": "C:\\WEBAPPLICATIONS(ASP,MVC)\\AzureBlankSol\\AzureMVC\\AzureMVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ATHISH RAJ MOHAN\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\ATHISH RAJ MOHAN\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

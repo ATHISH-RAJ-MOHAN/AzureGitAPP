@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AzureMVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c8bdad9ed320000c691d2f4d555f550832fb85c3")]
 [assembly: System.Reflection.AssemblyProductAttribute("AzureMVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AzureMVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
